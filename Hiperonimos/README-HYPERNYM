@@ -1,0 +1,5 @@
+Format output:
+00029114 		00028651 		1 		| space#n#1
+offset synset origin  	offset hypernym		nºexample	| word#pos#sense
+
+For more information, visit: https://wordnet.princeton.edu/wordnet/documentation/

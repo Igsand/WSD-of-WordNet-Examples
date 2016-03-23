@@ -1,0 +1,5 @@
+Format output:
+00001874	 3		be#v#1, hit#v#2
+offset  	nºexample	word#pos#sense, word2#pos#sense
+
+For more information, visit: https://wordnet.princeton.edu/wordnet/documentation/
